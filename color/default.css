@@ -3,36 +3,36 @@ a,.tp-caption a.btn:hover {
 	color: #5e080b;
 }
 .top-nav-collapse {
-	background: #EC1D23;
+	background: #d22d2d;
 }
 
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
-	color: #EC1D23;
+	color: #d22d2d;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #EC1D23;
+    background-color: #d22d2d;
 }
 
 .widget-avatar .avatar:hover {
-    border: 5px solid #EC1D23;
+    border: 5px solid #d22d2d;
 }
 
 .bg-skin {
-	background: #EC1D23;
+	background: #d22d2d;
 }
 
 form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
-	border-color: #EC1D23;
+	border-color: #d22d2d;
 }
 
 footer {
-    background-color: #EC1D23;
+    background-color: #d22d2d;
 }
 
 .btn-skin {
   color: #fff;
-  background-color: #EC1D23;
-  border-color: #EC1D23;
+  background-color: #d22d2d;
+  border-color: #d22d2d;
 }
